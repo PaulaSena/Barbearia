@@ -21,7 +21,7 @@ Projeto em Java - Barbearia: BarberShop  projeto sendo realizado em JavaForms no
 - Campo de senha
 - Botão
 
-![Primeira tela](/_interface/TelaLogin.jpg "Tela de login")
+![Primeira tela](/_interface/Tela%20Login.jpg "Tela de login")
 
 
 
@@ -31,8 +31,7 @@ Projeto em Java - Barbearia: BarberShop  projeto sendo realizado em JavaForms no
 - Campo de Operação
 - Campo de Relatorio
 
-![Segunda tela](/_interface/TelaMenuPrinciapal.jpg "Tela de menu")
-
+![Segunda tela](/_interface/Tela%20Menu%20Princiapal.jpg  "Tela de menu")
 
 ### Tela de Agenda
 
@@ -52,5 +51,6 @@ Projeto em Java - Barbearia: BarberShop  projeto sendo realizado em JavaForms no
 
 
 
-# Proximo passo implementação do banco de dados!
+#### Proximo passo implementação do banco de dados!
+
 
