@@ -15,26 +15,26 @@ Projeto em Java - Barbearia: BarberShop  projeto sendo realizado em JavaForms no
 
 ## Para acessar o sistema é necessario acesso com logim e senha tela de login:
 
-###Tela de login
+### Tela de login
 
 - Campo de Usuario 
 - Campo de senha
 - Botão
 
-![Primeira tela](/_interface/Tela Login.jpg "Tela de login")
+![Primeira tela](/_interface/TelaLogin.jpg "Tela de login")
 
 
 
-###Tela de Menu
+### Tela de Menu
 
 - Campo de Cadastro
 - Campo de Operação
 - Campo de Relatorio
 
-![Segunda tela](/_interface/Tela Menu Princiapal.jpg "Tela de menu")
+![Segunda tela](/_interface/TelaMenuPrinciapal.jpg "Tela de menu")
 
 
-###Tela de Agenda
+### Tela de Agenda
 
 - Campo de Id
 - Campo de Cliente
