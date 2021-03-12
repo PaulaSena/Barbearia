@@ -51,6 +51,15 @@ Projeto em Java - Barbearia: BarberShop  projeto sendo realizado em JavaForms no
 
 
 
-#### Proximo passo implementação do banco de dados 12/2020!
+#### Proximas etapas 
+
+✅Inserir projetos do github e link 
+
+⬜ Inserir animaçoes em Javascript
+⬜ inserir API de mapas 
+⬜ Inserir API de WhatsAPP
+
+⬜ Inserir Banco de dados
+⬜ Corrigir tamanho das imagens
 
 
